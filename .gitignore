@@ -1,0 +1,5 @@
+# Ambiente virtual
+venv/
+
+# Arquivo com informações do Azure
+.env
